@@ -79,9 +79,9 @@ const blogPosts = [
     id: 1,
     date: "Sep 2, 2025",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
-    image: "/images/blog1.png",
-    link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+      "COMING SOON",
+    image: "",
+    link: "",
   },
 ];
 
@@ -157,7 +157,7 @@ const socials = [
     text: "Medium",
     icon: "/icons/medium.svg",
     bg: "linear-gradient(135deg, #E7A2C6, #BBA6E1)", // pink->lavender like the heart
-    link: "https://jsmastery.com/",
+    link: "",
   },
   {
     id: 3,
